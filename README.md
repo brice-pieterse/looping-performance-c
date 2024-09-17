@@ -4,11 +4,7 @@ The following briefly examines the effects of loop unrolling on the performance 
 
 Sum all numbers from a through b. Obviously such an algorithm could be performed without ANY loop whatsoever using a simple formula:
 
-$$
-
-\frac{(b−a+1)(a+b)}{2}
-​
-$$
+$\frac{(b−a+1)(a+b)}{2}$
 
 However using a loop to perform this task provides a fitting environment for the test. We'll use the `Measure-Command` cmdlet in Powershell on Windows to measure the execution time of our program:
 
@@ -55,8 +51,6 @@ Here's the results:
 | `unrolled while`   | 0    | 1000000000  | 717                 |
 | `unrolled while`   | 0    | 10000000000 | 998                 |
 
-
-![Performance plot](/loop_performances.jpg)
 
 
 The obvious takeaways are:
