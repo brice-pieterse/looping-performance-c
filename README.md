@@ -115,7 +115,7 @@ LBB0_1:                             # loop start
 	.cfi_endproc
 ```
 
-Statistics for the main loop (LBB0_1)
+Statistics for the main loop (LBB0_1):
 registers used: 2 (%rbp, %rax) 
 jumps: 1
 operations: 9
@@ -155,7 +155,7 @@ LBB0_4:
 	.cfi_endproc
 ```
 
-Statistics for the main loop (LBB0_1)
+Statistics for the main loop (LBB0_1):
 registers used: 2 (%rbp, %rax) 
 jumps: 2
 operations: 10
@@ -198,7 +198,7 @@ LBB0_3:
 	.cfi_endproc
 ```
 
-Statistics for the main loop (LBB0_1)
+Statistics for the main loop (LBB0_1):
 registers used: 2 (%rbp, %rax) 
 jumps: 2
 operations: 10
@@ -241,7 +241,7 @@ LBB0_3:
 ```
 
 
-Statistics for the main loop (LBB0_1)
+Statistics for the main loop (LBB0_1):
 registers used: 2 (%rbp, %rax) 
 jumps: 2
 operations: 10
@@ -306,7 +306,7 @@ LBB0_5:
 	.cfi_endproc
 ```
 
-Statistics for the main loop (LBB0_1)
+Statistics for the main loop (LBB0_1):
 registers used: 2 (%rbp, %rax) 
 jumps: 2
 operations: 15
