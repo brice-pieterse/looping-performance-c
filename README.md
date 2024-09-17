@@ -116,9 +116,9 @@ LBB0_1:                             # loop start
 ```
 
 Statistics for the main loop (LBB0_1):
-registers used: 2 (%rbp, %rax) 
-jumps: 1
-operations: 9
+- registers used: 2 (%rbp, %rax) 
+- jumps: 1
+- operations: 9
 
 
 #### For Loop
@@ -156,9 +156,9 @@ LBB0_4:
 ```
 
 Statistics for the main loop (LBB0_1):
-registers used: 2 (%rbp, %rax) 
-jumps: 2
-operations: 10
+- registers used: 2 (%rbp, %rax) 
+- jumps: 2
+- operations: 10
 
 
 
@@ -199,9 +199,9 @@ LBB0_3:
 ```
 
 Statistics for the main loop (LBB0_1):
-registers used: 2 (%rbp, %rax) 
-jumps: 2
-operations: 10
+- registers used: 2 (%rbp, %rax) 
+- jumps: 2
+- operations: 10
 
 
 
@@ -242,9 +242,9 @@ LBB0_3:
 
 
 Statistics for the main loop (LBB0_1):
-registers used: 2 (%rbp, %rax) 
-jumps: 2
-operations: 10
+- registers used: 2 (%rbp, %rax) 
+- jumps: 2
+- operations: 10
 
 
 
@@ -307,6 +307,6 @@ LBB0_5:
 ```
 
 Statistics for the main loop (LBB0_1):
-registers used: 2 (%rbp, %rax) 
-jumps: 2
-operations: 15
+- registers used: 2 (%rbp, %rax) 
+- jumps: 2
+- operations: 15
